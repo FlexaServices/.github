@@ -1,2 +1,2 @@
-# .github
-FlexaServices Profile Repo
+# 💾 Flexa Services
+Hey! Welcome to the Flexa Services GitHub Account!
